@@ -23,6 +23,8 @@ This is a real-time chat application built using Python and WebSockets, allowing
 |-------------------|------------------|
 | ![roomchat](https://github.com/user-attachments/assets/95584d4b-5d97-4794-a10d-9374deb3aedf) | ![options](https://github.com/user-attachments/assets/d79da303-0435-4f0c-9df4-22af7e1b9c3a) |
 
+## Contributors
+- [Arroubi Youness](https://github.com/arroubi-youness)
 
 
 
