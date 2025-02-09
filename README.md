@@ -16,19 +16,9 @@ This is a real-time chat application built using Python and WebSockets, allowing
 | ![Signup](https://github.com/user-attachments/assets/b70e0996-1a75-4c74-8277-92f026d834d6) | ![Signup](https://github.com/user-attachments/assets/a2859ad5-28fd-45e5-89a2-cbc60883245b) |
 
 | Successful Sign Up | private chat Interface |
-|-----------|---------------------|
-| ![successfullsignup](https://github.com/user-attachments/assets/dd2f6e20-8ee2-4df3-9ff6-3b823c71f919) | ![private chat](https://github.com/user-attachments/assets/400105f4-2143-4f30-89df-70bc7352501d) |
+|---------------------|---------------------|
+| ![successfullsignup](https://github.com/user-attachments/assets/dd2f6e20-8ee2-4df3-9ff6-3b823c71f919)       | ![private chat](https://github.com/user-attachments/assets/400105f4-2143-4f30-89df-70bc7352501d) |
 
 | Room chat Interface | Options Interface |
 |-------------------|------------------|
 | ![roomchat](https://github.com/user-attachments/assets/95584d4b-5d97-4794-a10d-9374deb3aedf) | ![options](https://github.com/user-attachments/assets/d79da303-0435-4f0c-9df4-22af7e1b9c3a) |
-
-## Contributors
-- [Arroubi Youness](https://github.com/arroubi-youness)
-
-
-
-
-
-
-
