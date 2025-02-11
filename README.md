@@ -7,8 +7,8 @@ This is a real-time chat application built using Python and WebSockets, allowing
 - **Public Rooms**: Users can create and join public rooms where anyone in the application can participate.
 - **Real-time Messaging**: Messages are delivered instantly using WebSockets for a smooth chat experience.
 ## 🛠️ Technology Stack
-- **Frontend**: CustomTkinter – A modern, customizable GUI library for Python, used to create the chat application's user interface.
-- **Backend**: Python with WebSockets – Handles real-time communication between users, managing private chats, group chats, and public rooms.
+- **Frontend**: CustomTkinter.
+- **Backend**: Python with WebSockets to Handle real-time communication between users, managing private chats, group chats, and public rooms.
 - **Database**: SQLite – A lightweight, file-based database used to store user data, messages, and group information.
 ## 📸 Screenshots
 | Login Interface | SignUp Interface |
