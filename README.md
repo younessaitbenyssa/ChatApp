@@ -9,7 +9,7 @@ This is a real-time chat application built using Python and WebSockets, allowing
 ## 🛠️ Technology Stack
 - **Frontend**: CustomTkinter.
 - **Backend**: Python with WebSockets to Handle real-time communication between users, managing private chats, group chats, and public rooms.
-- **Database**: SQLite – A lightweight, file-based database used to store user data, messages, and group information.
+- **Database**: SQLite.
 ## 📸 Screenshots
 | Login Interface | SignUp Interface |
 |-----------------|---------------------|
